@@ -22,7 +22,7 @@ FUNCTION cal_gst(p_sales)
 #test
 #test
 #test test
-#test test
+#more test test
 END FUNCTION
 ################################################################################
 #@@@@@@@@@@@@@@ (cal_gst) @@@@@@@@@@@
