@@ -19,6 +19,7 @@ FUNCTION cal_gst(p_sales)
 
 	LET p_retsales = (p_sales * 10) / 11
 	RETURN p_retsales
+#test
 END FUNCTION
 ################################################################################
 #@@@@@@@@@@@@@@ (cal_gst) @@@@@@@@@@@
